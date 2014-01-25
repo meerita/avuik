@@ -39,6 +39,6 @@ I wish to start these ones:
 
 Any donation will be really welcome (paypal: dlafuente@gmail.com), it will help to buy the devices to test the artwork until they're correctomundo.
 
-I also can design/prototype your future app.
+I also can design/prototype your future app.g
 
 Have a lot of fun and profit. Don't hesitate to contact me to show your finished artwork. I would love to see the results.
