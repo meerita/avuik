@@ -20,6 +20,7 @@
 		<string>Roboto-Regular</string>
 		<string>Roboto-Bold</string>
 		<string>Roboto-Light</string>
+		<string>RobotoCondensed-Regular</string>
 		<string>Roboto-Bold</string>
 		<string>Roboto-Bold</string>
 		<string>Roboto-Bold</string>
@@ -93,7 +94,7 @@
 		<string>Roboto-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>1701481</integer>
+	<integer>1721263</integer>
 	<key>version</key>
 	<integer>18</integer>
 </dict>
