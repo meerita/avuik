@@ -5,9 +5,71 @@
 	<key>app</key>
 	<string>com.bohemiancoding.sketch</string>
 	<key>build</key>
-	<integer>5302</integer>
+	<integer>5361</integer>
 	<key>commit</key>
-	<string>9460a4bc62af5e9ba50dd4143578fd9401710ce5</string>
+	<string>4570185e2c9ded14ebc287c802202c126573b527</string>
+	<key>fonts</key>
+	<array>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Light</string>
+	</array>
+	<key>length</key>
+	<integer>1232258</integer>
 	<key>version</key>
 	<integer>18</integer>
 </dict>
