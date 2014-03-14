@@ -71,13 +71,6 @@
 		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
 		<string>Roboto-Light</string>
 		<string>Roboto-Light</string>
@@ -91,10 +84,17 @@
 		<string>Roboto-Regular</string>
 		<string>Roboto-Light</string>
 		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
 		<string>Roboto-Light</string>
 	</array>
 	<key>length</key>
-	<integer>1773604</integer>
+	<integer>1782977</integer>
 	<key>version</key>
 	<integer>18</integer>
 </dict>
