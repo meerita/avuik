@@ -1,3 +1,5 @@
+![template preview](http://i.imgur.com/nVZnMGP.png)
+
 Lovely & happily crafted by Diego Martín Lafuente.
 
 **AVUIK** is a complete, public domain licensed, illustration set of the latest Android Universal Interface theme called Holo, wich is available on Android KitKat and that you can use freely on Sketch App (version 3.0).
