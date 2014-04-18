@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>app</key>
-	<string>com.bohemiancoding.sketch</string>
+	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>5361</integer>
+	<integer>7573</integer>
 	<key>commit</key>
-	<string>4570185e2c9ded14ebc287c802202c126573b527</string>
+	<string>4e465a63318006126bf98e1e51096c1ad230008e</string>
 	<key>fonts</key>
 	<array>
 		<string>Roboto-Regular</string>
@@ -19,8 +19,8 @@
 		<string>Roboto-Bold</string>
 		<string>Roboto-Regular</string>
 		<string>Roboto-Bold</string>
+		<string>Roboto-Light</string>
 		<string>RobotoCondensed-Regular</string>
-		<string>Roboto-Light</string>
 		<string>Roboto-Bold</string>
 		<string>Roboto-Bold</string>
 		<string>Roboto-Bold</string>
@@ -71,6 +71,14 @@
 		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Bold</string>
+		<string>Roboto-Light</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
+		<string>Roboto-Regular</string>
 		<string>Roboto-Regular</string>
 		<string>Roboto-Light</string>
 		<string>Roboto-Light</string>
@@ -84,22 +92,10 @@
 		<string>Roboto-Regular</string>
 		<string>Roboto-Light</string>
 		<string>Roboto-Regular</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Regular</string>
-		<string>Roboto-Bold</string>
-		<string>Roboto-Light</string>
 	</array>
 	<key>length</key>
-<<<<<<< HEAD
-	<integer>1722248</integer>
-=======
-	<integer>1782977</integer>
->>>>>>> 309b92f7f940a09083950414e3c8023ef406539d
+	<integer>1600973</integer>
 	<key>version</key>
-	<integer>18</integer>
+	<integer>36</integer>
 </dict>
 </plist>
