@@ -4,8 +4,6 @@ Lovely & happily crafted by Diego Martín Lafuente.
 
 **AVUIK** is a complete, public domain licensed, illustration set of the latest Android Universal Interface theme called Holo, wich is available on Android KitKat and that you can use freely on Sketch App (version 3.0).
 
-![template preview](http://i.imgur.com/nVZnMGP.png)
-
 I developed this project to design the awesome Notegraphy.com app for Android.
 
 Android is a Google trademark and I don't have any relationship with the company, though I would love to work for it :). This is a base artwork to design awesome Android apps.
